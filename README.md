@@ -6,10 +6,11 @@ PTP LLC, hereinafter referred to as the "Contractor," offers individuals, herein
 1. Definition of Services
 The Contractor provides the following services:
 
-Preparation of documents, including:
-Forging or providing fake medical certificates (Usprawidliwienie lekarskie);
-Forging or providing fake passes (Wejściówki korab/pasat);
-Providing answers for exams, colloquiums, and other academic tests.
+  Preparation of documents, including:
+    Forging or providing fake medical certificates (Usprawidliwienie lekarskie);
+    Forging or providing fake passes (Wejściówki korab/pasat);
+    Providing answers for exams, colloquiums, and other academic tests.
+
 2. Terms of Service
 2.1. Services are provided on a paid basis.
 2.2. The Client agrees to make full payment for the services in accordance with the rates agreed upon with the Contractor.
